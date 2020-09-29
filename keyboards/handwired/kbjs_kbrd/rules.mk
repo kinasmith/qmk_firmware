@@ -58,5 +58,5 @@ BACKLIGHT_ENABLE ?= no  # Enable keyboard backlight functionality
 AUDIO_ENABLE ?= no
 RGBLIGHT_ENABLE ?= no
 AUTO_SHIFT_ENABLE = no
-KEY_LOCK_ENABLE = yes
-TAP_DANCE_ENABLE = yes
+KEY_LOCK_ENABLE = no
+TAP_DANCE_ENABLE = no
